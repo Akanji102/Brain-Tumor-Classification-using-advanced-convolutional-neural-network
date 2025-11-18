@@ -16,7 +16,7 @@
 
 ## 🎯 **VISUAL PROOF OF PERFORMANCE**
 
-![Brain Tumor Classification Results]("download (27).jpg")
+![Brain Tumor Classification Results](download (27).jpg)
 
 *12/12 Perfect Predictions with 99-100% Confidence - Real MRI Scan Results*
 
