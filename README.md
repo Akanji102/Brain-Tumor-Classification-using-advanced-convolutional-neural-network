@@ -14,7 +14,9 @@
 
 ---
 
-![Brain Tumor Classification Results](https://raw.githubusercontent.com/Akanji102/brain-tumor-detection-ai/main/download%20(27).jpg)
+## 🎯 **VISUAL PROOF OF PERFORMANCE**
+
+![Brain Tumor Classification Results](https://raw.githubusercontent.com/Akanji102/brain-tumor-detection-ai/main/brain_tumor_results.jpg)
 
 *12/12 Perfect Predictions with 99-100% Confidence - Real MRI Scan Results*
 
