@@ -16,7 +16,7 @@
 
 ## 🎯 **VISUAL PROOF OF PERFORMANCE**
 
-![Brain Tumor Classification Results]("image(21).jpg")
+![Brain Tumor Classification Results]("download (27).jpg")
 
 *12/12 Perfect Predictions with 99-100% Confidence - Real MRI Scan Results*
 
@@ -152,7 +152,7 @@ model = Sequential([
 ### 📦 **Quick Start**
 
 # Clone repository
-git clone https://github.com/Akanji102fivebrane/brain-tumor-detection-ai.git
+git clone https://github.com/Akanji102/brain-tumor-detection-ai.git
 cd brain-tumor-detection-ai
 
 # Create virtual environment
